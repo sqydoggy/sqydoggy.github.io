@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>狗子的博客</title>
+  <title>Doggy&#39;s blog</title>
   
-  
+  <subtitle>present</subtitle>
   <link href="https://sqydoggy.top/atom.xml" rel="self"/>
   
   <link href="https://sqydoggy.top/"/>
@@ -10,7 +10,7 @@
   <id>https://sqydoggy.top/</id>
   
   <author>
-    <name>狗子</name>
+    <name>Doggy</name>
     
   </author>
   
